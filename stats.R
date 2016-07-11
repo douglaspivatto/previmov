@@ -10,7 +10,7 @@ library(Metrics)
 library(caret)
 
 # Ler dados de imoveis
-data <- read.csv("imoveis_pel.csv", sep = ";", dec = ",")
+data <- read.csv("C:/Users/dougl/previmov/imoveis_pel.csv", sep = ";", dec = ",")
 
 # Observar dados e tipo das variaveis
 class(data)
